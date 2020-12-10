@@ -105,15 +105,18 @@ Full list of studios I have worked for: [Industrial Light & Magic](https://www.i
 
 * LocPlacement is a utility script for Autodesk Maya that will position selected locators at the nearest geometry, from the viewpoint of the currently active camera
 
-| Education                         |                                 |        |
+## Education
+
+|                                   |                                 |        |
 | :---                              |    ---:                         |   ---: |
 | Codesmith                         | Software Engineering Immersive  | 2019   |
 | Florence Academy of Art           | Traditional Drawing & Sculpture | 2014   |
 | VIA University, Denmark           | Bachelors in Computer Graphics  | 2012   |
 
----
 
-| Talks                                                 |                                      |        |
+## Talks
+
+|                                                       |                                      |        |
 | :---                                                  |    ---:                              |   ---: |
 | Frontend Frameworks & Transpilers                     | Build with Code                      | 2019   |
 | Local pose based deformations workflow                | ILM, London                          | 2016   |
