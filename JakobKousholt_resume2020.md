@@ -1,4 +1,5 @@
 # Jakob Kousholt
+
 ## Software Engineer / Pipeline TD / Modeling TD / Educator
 
 > [jakobjk@gmail.com](jakobjk@gmail.com)\
@@ -61,6 +62,7 @@ BigSpring is an online learning Platform. I was in charge of maintaining and ext
 ---
 
 ### [**New York University**](https://www.nyu.edu/), [**School of Visual Arts**](https://sva.edu/), et al - Professor / Class Supervisor / Instructor
+
 #### 2016 - 2019
 
 I have taught courses in Artistic Anatomy, Polygon Modeling, Digital Sculpture, Creature Creation for Film, Python for Modeling Technical Directors and introductory level courses at some of the top universities and educational institutions in both Europe, and North America. Both locally and online.
@@ -70,7 +72,9 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 ---
 
 ### [Industrial Light & Magic](https://www.ilm.com/), [Framestore](https://framestore.com/), [Double Negative](https://dneg.com/), et al - Senior Modeling Technical Director
+
 #### 2009 - 2019
+
  I have created digital characters/creatures and assets for some of the most iconic movies, such as Avatar, Harry Potter, Star wars and Gravity. I was part of numerous Oscar winning VFX teams pushing the boundaries of VFX.
  <details>
  <summary>My responsibilities included (Click to expand)</summary>
