@@ -102,10 +102,7 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 
 * LocPlacement is a utility script for Autodesk Maya that will position selected locators at the nearest geometry, from the viewpoint of the currently active camera
 
-## Education
-
----
-
+| Education                         |                                 |        |
 | :---                              |    ---:                         |   ---: |
 | Codesmith                         | Software Engineering Immersive  | 2019   |
 | Florence Academy of Art           | Traditional Drawing & Sculpture | 2014   |
