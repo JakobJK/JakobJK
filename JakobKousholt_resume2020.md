@@ -15,7 +15,7 @@ Experienced Software Engineer building and deploying full stack scalable, and re
 
 ### Skills
 
-<sub>JavaScript, TypeScript, Node.js, Express, Python, PyQt, PySide, Flask, MEL, React, Svelte, Redux, Thunk, Jest, Enzyme, OAuth 2,0, GraphQL, Apollo Client, Postgraphile, Postgres, MySQL, SQL, PL/pgSQL, Git, GitHub Actions, HTML5, Canvas API, CSS (Flexbox, Grid, Sass/Scss),Tailwind CSS, Webpack, Parcel, Docker, Nginx, Travis-CI, CircleCI, AWS, Terraform, Serverless, Sqitch, Bcrypt, JWTs, 3dsMax, Maya, Zeno, USD, Davinci Resolve</sub>
+JavaScript, TypeScript, Node.js, Express, Python, PyQt, PySide, Flask, MEL, React, Svelte, Redux, Thunk, Jest, Enzyme, OAuth 2,0, GraphQL, Apollo Client, Postgraphile, Postgres, MySQL, SQL, PL/pgSQL, Git, GitHub Actions, HTML5, Canvas API, CSS (Flexbox, Grid, Sass/Scss),Tailwind CSS, Webpack, Parcel, Docker, Nginx, Travis-CI, CircleCI, AWS, Terraform, Serverless, Sqitch, Bcrypt, JWTs, 3dsMax, Maya, Zeno, USD, Davinci Resolve
 
 ## Experience
 
