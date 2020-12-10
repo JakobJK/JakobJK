@@ -1,5 +1,5 @@
 ## Jakob Kousholt
-### Software Engineer / Pipeline TD/ Modeling TD / Educator
+### Software Engineer / Pipeline TD / Modeling TD / Educator
 
 > [jakobjk@gmail.com](jakobjk@gmail.com)\
 > +1 (347) 327-1370\
