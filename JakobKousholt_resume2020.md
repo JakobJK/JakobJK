@@ -23,7 +23,7 @@ I am the main 3D Pipeline Technical Director creating tools to optimize the work
 <details>
 <summary>My Responsibilities at VFX Powerhouse (Click to expand)</summary>
 
-* Adding custom metadata toUtilized PyQt Framework within Houdini to generate a UI enabling texture artists to import to current project, and convert textures to the RAT format
+* Adding custom metadata to Utilized PyQt Framework within Houdini to generate a UI enabling texture artists to import to current project, and convert textures to the RAT format
 * Calculated the ray intersection of meshes to position tracker points from the angle of the camera enabling faster workflow for matchmovers
 * Adding custom to publishes within shotgun to enable DCCs to establish render and overscan resolution on import/exports, and other extensible post publish/import hooks
 
@@ -44,7 +44,7 @@ BigSpring is an online learning Platform. I was in charge of maintaining and ext
 * Worked closely with the UI team to ensure pixel level accuracy between the design and the implementation within the frontend react application
 * Utilizing SQL queries to assist the analytics teams generate the weekly reports for Uber
 * Defined custom types as input parameters for PL/pgSQL functions, in order to implement type safety for our functions served by our GraphQL API
-* Deploying and extending AWS infrastructure using Terraform, to keep our infrastructure up to the task of our growing user base which surpassed 500,000 active users. Approaches include pooling, load balancing, read/write splitting, deploying read replicas, and caching.
+* Deploying and extending AWS infrastructure using Terraform, to keep our infrastructure up to the task of our growing user base which surpassed 500,000 active users. Approaches include pooling, load balancing, read/write splitting, deploying read replicas, and caching
 * Implemented segment across our application by setting up posts requests in our react application, IAM policies within our AWS infrastructure, and schemas within our RDS (postgres) database, in order to enable complex analysis of user behavior
   </details>
 
@@ -81,15 +81,15 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 
 ## Projects
 
+### [AnagraphQL](https://github.com/oslabs-beta/anagraphql)
+* Myself along a small group of other dedicated software engineers developed AnagraphQL. A middleware NPM package for GraphQL endpoints allowing API providers to set up policies and conditions for how users can interact with their API. Eliminating the user’s ability to make malicious queries
+
 ### [ModelChecker](https://github.com/JakobJK/modelChecker)
-* modelChecker is a tool written for Autodesk Maya to sanity check digital polygon models for production. It aims to be as unopinionated as possible, It gives you concise feedback, and let's you select your error nodes easily.
+* modelChecker is a tool written for Autodesk Maya to sanity check digital polygon models for production. It aims to be as unopinionated as possible, It gives you concise feedback, and let's you select your error nodes easily
 
 ### [LocPlacement](https://github.com/JakobJK/locPlacement)
 * LocPlacement is a utility script for Autodesk Maya that will position selected locators at the nearest geometry, from the viewpoint of the currently active camera
 
-
-### [AnagraphQL](https://github.com/oslabs-beta/anagraphql)
-* Myself along a small group of other dedicated software engineers developed AnagraphQL. A middleware NPM package for GraphQL endpoints allowing API providers to set up policies and conditions for how users can interact with their API. Eliminating the user’s ability to make malicious queries
 
 ---
 | Education                         |                                 |        |
