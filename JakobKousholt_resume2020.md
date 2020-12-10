@@ -6,6 +6,7 @@
 > Brooklyn, NY
 
 ---
+
 ### About
 
 Experienced Software Engineer building and deploying full stack scalable, and resilient applications, with an emphasis on JavaScript/TypeScript (React & Node). A decade of experience working as a technical director in the VFX industry with a heavy focus on extending capabilities of existing animation packages using Python. Experienced educator, strong technical written and verbal communication skills. Bachelor's degree in Computer Graphics.
@@ -13,12 +14,17 @@ Experienced Software Engineer building and deploying full stack scalable, and re
 ---
 
 ### Skills
+
 <sub>JavaScript, TypeScript, Node.js, Express, Python, PyQt, PySide, Flask, MEL, React, Svelte, Redux, Thunk, Jest, Enzyme, OAuth 2,0, GraphQL, Apollo Client, Postgraphile, Postgres, MySQL, SQL, PL/pgSQL, Git, GitHub Actions, HTML5, Canvas API, CSS (Flexbox, Grid, Sass/Scss),Tailwind CSS, Webpack, Parcel, Docker, Nginx, Travis-CI, CircleCI, AWS, Terraform, Serverless, Sqitch, Bcrypt, JWTs, 3dsMax, Maya, Zeno, USD, Davinci Resolve</sub>
 
 ## Experience
+
 ---
-[**Powerhouse VFX**](http://www.powerhousevfx.com/) - Pipeline Technical Director
-##### 2020 - Current
+
+### [**Powerhouse VFX**](http://www.powerhousevfx.com/) - Pipeline Technical Director
+
+#### 2020 - Current
+
 I am the main 3D Pipeline Technical Director creating tools to optimize the work and dataflow for assets, caches, and renders across the VFX Pipeline
 <details>
 <summary>My Responsibilities at VFX Powerhouse (Click to expand)</summary>
@@ -31,12 +37,14 @@ I am the main 3D Pipeline Technical Director creating tools to optimize the work
 
 ---
 
-[**BigSpring**](https://www.bigspring.io/) - Full Stack Engineer
-##### 2019 - 2020
+### [**BigSpring**](https://www.bigspring.io/) - Full Stack Engineer
+
+#### 2019 - 2020
+
 BigSpring is an online learning Platform. I was in charge of maintaining and extending the enterprise dashboard. A Content Management System for coaches and content managers, to moderate learning plans and learner profiles. BigSpring currently supports +500,000 learners across the world.
 
 <details>
-<summary>My Responsibilities at BigSpring (Click to expand)</summary>
+  <summary>My Responsibilities at BigSpring (Click to expand)</summary>
 
 * Implementing and extending business logic utilizing serverless framework (nodejs) and functions written in PL/pgSQL within postgres.
 * Utilized Apollo Client local caching, and http batching, to manage local state and improve responsiveness and minimize network latency
@@ -46,6 +54,7 @@ BigSpring is an online learning Platform. I was in charge of maintaining and ext
 * Defined custom types as input parameters for PL/pgSQL functions, in order to implement type safety for our functions served by our GraphQL API
 * Deploying and extending AWS infrastructure using Terraform, to keep our infrastructure up to the task of our growing user base which surpassed 500,000 active users. Approaches include pooling, load balancing, read/write splitting, deploying read replicas, and caching
 * Implemented segment across our application by setting up posts requests in our react application, IAM policies within our AWS infrastructure, and schemas within our RDS (postgres) database, in order to enable complex analysis of user behavior
+
   </details>
 
 ---
@@ -82,12 +91,15 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 ## Projects
 
 ### [AnagraphQL](https://github.com/oslabs-beta/anagraphql)
+
 * Myself along a small group of other dedicated software engineers developed AnagraphQL. A middleware NPM package for GraphQL endpoints allowing API providers to set up policies and conditions for how users can interact with their API. Eliminating the user’s ability to make malicious queries
 
 ### [ModelChecker](https://github.com/JakobJK/modelChecker)
+
 * modelChecker is a tool written for Autodesk Maya to sanity check digital polygon models for production. It aims to be as unopinionated as possible, It gives you concise feedback, and let's you select your error nodes easily
 
 ### [LocPlacement](https://github.com/JakobJK/locPlacement)
+
 * LocPlacement is a utility script for Autodesk Maya that will position selected locators at the nearest geometry, from the viewpoint of the currently active camera
 
 
