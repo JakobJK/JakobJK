@@ -1,12 +1,12 @@
-## Jakob Kousholt
-### Software Engineer / Pipeline TD / Modeling TD / Educator
+# Jakob Kousholt
+## Software Engineer / Pipeline TD / Modeling TD / Educator
 
 > [jakobjk@gmail.com](jakobjk@gmail.com)\
 > +1 (347) 327-1370\
 > Brooklyn, NY
 
 ---
-About
+### About
 
 Experienced Software Engineer building and deploying full stack scalable, and resilient applications, with an emphasis on JavaScript/TypeScript (React & Node). A decade of experience working as a technical director in the VFX industry with a heavy focus on extending capabilities of existing animation packages using Python. Experienced educator, strong technical written and verbal communication skills. Bachelor's degree in Computer Graphics.
 
