@@ -26,6 +26,7 @@ JavaScript, TypeScript, Node.js, Express, Python, PyQt, PySide, Flask, MEL, Reac
 #### 2020 - Current
 
 I am the main 3D Pipeline Technical Director creating tools to optimize the work and dataflow for assets, caches, and renders across the VFX Pipeline
+
 <details>
 <summary>My Responsibilities at VFX Powerhouse (Click to expand)</summary>
 
@@ -64,7 +65,6 @@ BigSpring is an online learning Platform. I was in charge of maintaining and ext
 
 I have taught courses in Artistic Anatomy, Polygon Modeling, Digital Sculpture, Creature Creation for Film, Python for Modeling Technical Directors and introductory level courses at some of the top universities and educational institutions in both Europe, and North America. Both locally and online.
 
-
 Full list of institutions I have taught at: [New York University](https://www.nyu.edu/), [School of Visual Arts](https://sva.edu/), [The Animation Workshop](https://animationworkshop.via.dk/),  [Truemax Academy](https://truemax.com/), [The Royal Danish Academy of Fine Arts](https://kadk.dk/en/kadk), [Think Tank Training Centre](https://www.tttc.ca/)
 
 ---
@@ -85,6 +85,9 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 * Continuously improve upon current pipeline, by introducing new tools and workflows when necessary
 
 </details>
+&nbsp;
+
+Full list of studios I have worked for: [Industrial Light & Magic](https://www.ilm.com/), [Framestore](https://framestore.com/), [Double Negative](https://dneg.com/), [The Moving Picture Company](https://www.moving-picture.com/), [Cinesite](https://www.cinesite.com/), [The Third Floor](https://thethirdfloorinc.com/), [Prime Focus](http://www.primefocus.com/), [Method Studios](https://www.methodstudios.com/en/), [Alkemy-x](https://www.alkemy-x.com/), [Powerhouse VFX](http://www.powerhousevfx.com/), [VaynerMedia](https://vaynermedia.com/), [Ghost VFX](https://ghost.dk/), [Artjail](https://www.artjail.com/), [Duckling](https://duckling.dk/), [ODD-ny](https://odd.tv/)
 
 ---
 
