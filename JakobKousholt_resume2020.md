@@ -46,7 +46,7 @@ I am the main 3D Pipeline Technical Director creating tools to optimize the work
 BigSpring is an online learning Platform. I was in charge of maintaining and extending the enterprise dashboard. A Content Management System for coaches and content managers, to moderate learning plans and learner profiles. BigSpring currently supports +500,000 learners across the world.
 
 <details>
-  <summary>My Responsibilities at BigSpring (Click to expand)</summary>
+<summary>My Responsibilities at BigSpring (Click to expand)</summary>
 
 * Implementing and extending business logic utilizing serverless framework (nodejs) and functions written in PL/pgSQL within postgres.
 * Utilized Apollo Client local caching, and http batching, to manage local state and improve responsiveness and minimize network latency
@@ -57,7 +57,7 @@ BigSpring is an online learning Platform. I was in charge of maintaining and ext
 * Deploying and extending AWS infrastructure using Terraform, to keep our infrastructure up to the task of our growing user base which surpassed 500,000 active users. Approaches include pooling, load balancing, read/write splitting, deploying read replicas, and caching
 * Implemented segment across our application by setting up posts requests in our react application, IAM policies within our AWS infrastructure, and schemas within our RDS (postgres) database, in order to enable complex analysis of user behavior
 
-  </details>
+</details>
 
 ---
 
@@ -76,6 +76,7 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 #### 2009 - 2019
 
  I have created digital characters/creatures and assets for some of the most iconic movies, such as Avatar, Harry Potter, Star wars and Gravity. I was part of numerous Oscar winning VFX teams pushing the boundaries of VFX.
+
  <details>
  <summary>My responsibilities included (Click to expand)</summary>
 
@@ -109,6 +110,8 @@ Full list of studios I have worked for: [Industrial Light & Magic](https://www.i
 
 * LocPlacement is a utility script for Autodesk Maya that will position selected locators at the nearest geometry, from the viewpoint of the currently active camera
 
+---
+
 ## Education
 
 |                                   |                                 |        |
@@ -116,7 +119,6 @@ Full list of studios I have worked for: [Industrial Light & Magic](https://www.i
 | Codesmith                         | Software Engineering Immersive  | 2019   |
 | Florence Academy of Art           | Traditional Drawing & Sculpture | 2014   |
 | VIA University, Denmark           | Bachelors in Computer Graphics  | 2012   |
-
 
 ## Talks
 
