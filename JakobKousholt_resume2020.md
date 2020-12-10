@@ -89,7 +89,7 @@ Full list of institutions I have taught at: [New York University](https://www.ny
 
 
 ### [AnagraphQL](https://github.com/oslabs-beta/anagraphql)
-* Software Engineer 2019 Myself along with a small group of other dedicated software engineers developed AnagraphQL. A middleware NPM package for GraphQL endpoints allowing API providers to set up policies and conditions for how users can interact with their API. Eliminating the user’s ability to make malicious queries
+* Myself along a small group of other dedicated software engineers developed AnagraphQL. A middleware NPM package for GraphQL endpoints allowing API providers to set up policies and conditions for how users can interact with their API. Eliminating the user’s ability to make malicious queries
 
 ---
 | Education                         |                                 |        |
