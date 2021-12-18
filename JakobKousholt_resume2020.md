@@ -112,6 +112,12 @@ Full list of studios I have worked for: [Industrial Light & Magic](https://www.i
 
 ---
 
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 ## Education
 
 |                                   |                                 |        |
